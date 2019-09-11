@@ -9,5 +9,9 @@ print(45+67+78+45+56)
 #numbers - integers, floats, doubles
 #Boolean -  True or false
 #Strings -
-print(15+15+15)
+# print(15+15+15)
+
+#Concept 2 -  Data structers
+number_of_employees = 10
+print(type(number_of_employees))
 
