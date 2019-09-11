@@ -1,0 +1,45 @@
+Introduction to python programming
+
+Python is  a programming language. it is an 
+
+- interpreted - (the opposite of a compiled languages like java, C,C++ which need to convereted into byte code that can be read by a machine), 
+Python can be read as it is written and does nto need to be "interpreted" for the computer 
+
+- high level -  It is on the human side. i.e humans can understand python. It is just english. 
+
+- General purpose - Can be used in many fields, can be used to automate processes, web, IOT, data science
+
+- language -  just like a normal language
+
+- readability -  easy to read, syntax like normal language
+
+
+
+No matter the language, you need to think and reason Logically.  
+
+
+print("Muriithi Gichuru")
+NB: Python is case sensitive
+
+Editors (where you can write code) are -  notepad, word, but better editors are like pycham which can highlight the code and erros.
+
+Rules of naming in programming - Naming Variables, classes, identifiers, etc.
+1. Should not contain spaces 
+-  Identifiers -  prog languages can allow us to name something in our own words / names, Variables etc. 
+e,g total marks =  100 is worng. totalMarks = 100 is correct -  This is called #camel case
+number of students = 100 is wrong.  number_of_students = 100 is called. This is called #snake typing
+
+2. Can not start with a number. 
+4total = 35 is wrong
+total4  = 35 is correct
+
+3. Cannot contain special characters
+total% = 20  is not correct
+Total_Percentage = 20 is correct
+
+4. Cannot contain keywords (Reserved words)
+-  A keyword has already been assigned by the programming language.
+print,import,list,def,and,or,pass,return,else,if,True,False,Str,open,not,as,false, lamda,while,
+This are already inbuilt functions and cant be used to name.
+
+
